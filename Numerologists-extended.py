@@ -18,5 +18,5 @@ def value(name):
 
     return value
 
-print(value("John Marvin Zelle")
+print(value("John Marvin Zelle"))
 print(value("John Jacob Arthur Robert"))
